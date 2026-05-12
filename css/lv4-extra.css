@@ -1,0 +1,7 @@
+.stars { color: #c7194d; font-size: 1.1rem; letter-spacing: 1px; }
+.detail-image { max-width: 420px; width: 100%; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,.18); display: block; margin: 1rem 0; }
+.rating-form { display: grid; gap: 1rem; max-width: 520px; margin-top: 1rem; }
+.rating-form select, .rating-form textarea { width: 100%; padding: .7rem; border: 1px solid #d9d9d9; border-radius: 8px; }
+.rating-form textarea { min-height: 90px; }
+.message { background: #fff5f7; border: 1px solid #c7194d; border-radius: 8px; padding: .8rem; margin: .8rem 0; }
+.comment { background: #fff; padding: .75rem; border-radius: 8px; border: 1px solid #eee; }
